@@ -6,7 +6,9 @@ namespace InclassEx
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string name = "Ariel Brewington";
+            Console.WriteLine(name);
+            Console.ReadKey(true);
         }
     }
 }
